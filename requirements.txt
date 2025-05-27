@@ -1,6 +1,6 @@
 streamlit
 numpy==1.26.4
-pandas=2.2.3
+pandas==2.2.3
 scikit-learn==1.6.0
 pymoo==0.6.1.1
 joblib==1.4.2
